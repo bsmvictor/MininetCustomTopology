@@ -1,6 +1,10 @@
 # Projeto de Topologia de Rede Customizada com Mininet
 Este projeto utiliza o simulador de redes Mininet para criar uma topologia customizada composta por múltiplos switches e hosts, além de permitir testes de conectividade entre os hosts.
 
+## Colaboradores
+ - Victor Boaventura Souza Muniz
+- Igor Nogueira Olivio
+
 # Descrição
 O projeto define uma topologia de rede com sete switches e sete hosts conectados de forma específica. O objetivo é simular o comportamento de uma rede e testar a comunicação entre os dispositivos, utilizando o Mininet para construir a topologia e verificar conectividade com comandos de ping.
 
