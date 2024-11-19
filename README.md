@@ -11,6 +11,7 @@ O projeto define uma topologia de rede com sete switches e sete hosts conectados
 ![](imagens/b2.jpg)
 ![](imagens/b3.jpg)
 ![](imagens/b4.jpg)
+![](imagens/c.jpg)
 ![](imagens/d.jpg)
 
 # Questão 2
