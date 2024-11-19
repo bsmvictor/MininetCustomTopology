@@ -5,6 +5,13 @@ Este projeto utiliza o simulador de redes Mininet para criar uma topologia custo
 O projeto define uma topologia de rede com sete switches e sete hosts conectados de forma específica. O objetivo é simular o comportamento de uma rede e testar a comunicação entre os dispositivos, utilizando o Mininet para construir a topologia e verificar conectividade com comandos de ping.
 
 # Questão 1
+![](imagens/a.jpg)
+![](imagens/b.jpg)
+![](imagens/b1.jpg)
+![](imagens/b2.jpg)
+![](imagens/b3.jpg)
+![](imagens/b4.jpg)
+![](imagens/d.jpg)
 
 # Questão 2
 ## Estrutura da Topologia
